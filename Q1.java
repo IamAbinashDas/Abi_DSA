@@ -1,4 +1,4 @@
-public class Q1 {
+public class Q1 {//Set Matrix Zeroes
     public static void setZeroesBruteForce(int arr[][]){
         int m=arr.length;//rows
         int n=arr[0].length;//columns
